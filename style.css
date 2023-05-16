@@ -8,6 +8,7 @@ body{
     text-align: center;
     color: aliceblue;
     text-decoration: underline;
+    margin-bottom: 10px;
 }
 #txtsmall{
     font-size: 15px;
@@ -17,13 +18,12 @@ body{
     background-color: lightblue;
     border: 2px solid red;
     border-radius: 10px;
-    margin: 10px 400px;
-    /* text-align: center; */
-}
-div ul li{
-    margin-left: 195px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
 }
 #container_2{
+    margin-top: 10px;
     height: 105px;
     background-color: lightgreen;
     display: flex;
